@@ -1,0 +1,2 @@
+# Hospital-Management-System-
+the system is designed to automate processes related to patient care, such as patient registration, scheduling appointments, managing patient medical records, and billing,The system typically includes modules for managing different aspects of hospital operations, such as pharmacy management, laboratory management, inventory management, and financial management. This allows the hospital administration to monitor all aspects of the facility, from the front desk to the back office, and ensure that everything is running smoothly.
